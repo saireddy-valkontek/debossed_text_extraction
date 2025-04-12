@@ -1,0 +1,328 @@
+{
+    "timestamp": "2025-04-12 17:05:46",
+    "detections": [
+        {
+            "label": "DIGIT_3",
+            "confidence": 0.88,
+            "bounding_box": [
+                844,
+                1045,
+                966,
+                1156
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "D",
+            "confidence": 0.86,
+            "bounding_box": [
+                1030,
+                1259,
+                1222,
+                1420
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "A",
+            "confidence": 0.85,
+            "bounding_box": [
+                230,
+                1296,
+                416,
+                1465
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "C",
+            "confidence": 0.83,
+            "bounding_box": [
+                800,
+                1268,
+                985,
+                1424
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "E",
+            "confidence": 0.82,
+            "bounding_box": [
+                1286,
+                1255,
+                1465,
+                1403
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "U",
+            "confidence": 0.81,
+            "bounding_box": [
+                428,
+                1506,
+                652,
+                1696
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "V",
+            "confidence": 0.81,
+            "bounding_box": [
+                723,
+                1490,
+                921,
+                1688
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_9",
+            "confidence": 0.8,
+            "bounding_box": [
+                1971,
+                992,
+                2099,
+                1103
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "X",
+            "confidence": 0.79,
+            "bounding_box": [
+                1267,
+                1478,
+                1478,
+                1663
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "P",
+            "confidence": 0.77,
+            "bounding_box": [
+                3526,
+                1189,
+                3705,
+                1358
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "F",
+            "confidence": 0.76,
+            "bounding_box": [
+                1510,
+                1251,
+                1689,
+                1403
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "W",
+            "confidence": 0.75,
+            "bounding_box": [
+                960,
+                1486,
+                1196,
+                1683
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "Z",
+            "confidence": 0.75,
+            "bounding_box": [
+                1676,
+                1449,
+                1868,
+                1618
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_8",
+            "confidence": 0.75,
+            "bounding_box": [
+                1804,
+                1000,
+                1932,
+                1111
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "K",
+            "confidence": 0.74,
+            "bounding_box": [
+                2393,
+                1243,
+                2572,
+                1391
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "G",
+            "confidence": 0.73,
+            "bounding_box": [
+                1728,
+                1255,
+                1920,
+                1412
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.73,
+            "bounding_box": [
+                1241,
+                1012,
+                1369,
+                1128
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_4",
+            "confidence": 0.72,
+            "bounding_box": [
+                1030,
+                1021,
+                1164,
+                1144
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_7",
+            "confidence": 0.72,
+            "bounding_box": [
+                1612,
+                1004,
+                1734,
+                1115
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_1",
+            "confidence": 0.68,
+            "bounding_box": [
+                486,
+                1054,
+                588,
+                1173
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "O",
+            "confidence": 0.65,
+            "bounding_box": [
+                3328,
+                1189,
+                3513,
+                1350
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_0",
+            "confidence": 0.64,
+            "bounding_box": [
+                326,
+                1045,
+                460,
+                1165
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "L",
+            "confidence": 0.64,
+            "bounding_box": [
+                2611,
+                1218,
+                2835,
+                1375
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "J",
+            "confidence": 0.61,
+            "bounding_box": [
+                2214,
+                1231,
+                2361,
+                1375
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_2",
+            "confidence": 0.6,
+            "bounding_box": [
+                620,
+                1041,
+                755,
+                1161
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "I",
+            "confidence": 0.58,
+            "bounding_box": [
+                2092,
+                1255,
+                2176,
+                1399
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "DIGIT_6",
+            "confidence": 0.56,
+            "bounding_box": [
+                1433,
+                1012,
+                1548,
+                1103
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "N",
+            "confidence": 0.55,
+            "bounding_box": [
+                3078,
+                1189,
+                3296,
+                1358
+            ],
+            "inference_time_ms": 1490.84
+        },
+        {
+            "label": "B",
+            "confidence": 0.32,
+            "bounding_box": [
+                467,
+                1276,
+                665,
+                1441
+            ],
+            "inference_time_ms": 1490.84
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 29
+    }
+}

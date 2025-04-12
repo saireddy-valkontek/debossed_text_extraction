@@ -1,0 +1,31 @@
+{
+    "timestamp": "2025-04-12 17:01:09",
+    "detections": [
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.6,
+            "bounding_box": [
+                470,
+                276,
+                506,
+                299
+            ],
+            "inference_time_ms": 1444.02
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.28,
+            "bounding_box": [
+                514,
+                275,
+                550,
+                298
+            ],
+            "inference_time_ms": 1444.02
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 2
+    }
+}

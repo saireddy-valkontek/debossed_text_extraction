@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-04-12 17:20:39",
+    "detections": [
+        {
+            "label": "O",
+            "confidence": 0.5,
+            "bounding_box": [
+                212,
+                296,
+                256,
+                357
+            ],
+            "inference_time_ms": 1506.62
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 1
+    }
+}

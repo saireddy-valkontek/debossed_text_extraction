@@ -1,0 +1,97 @@
+{
+    "timestamp": "2025-04-12 16:34:16",
+    "detections": [
+        {
+            "label": "L",
+            "confidence": 0.72,
+            "bounding_box": [
+                96,
+                90,
+                122,
+                108
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "DIGIT_4",
+            "confidence": 0.66,
+            "bounding_box": [
+                263,
+                81,
+                284,
+                93
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.63,
+            "bounding_box": [
+                231,
+                81,
+                255,
+                94
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "Z",
+            "confidence": 0.54,
+            "bounding_box": [
+                271,
+                110,
+                297,
+                123
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "DIGIT_6",
+            "confidence": 0.45,
+            "bounding_box": [
+                201,
+                84,
+                225,
+                97
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.43,
+            "bounding_box": [
+                202,
+                84,
+                225,
+                97
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "DIGIT_6",
+            "confidence": 0.34,
+            "bounding_box": [
+                262,
+                81,
+                284,
+                93
+            ],
+            "inference_time_ms": 1554.06
+        },
+        {
+            "label": "Z",
+            "confidence": 0.33,
+            "bounding_box": [
+                270,
+                108,
+                295,
+                123
+            ],
+            "inference_time_ms": 1554.06
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 8
+    }
+}

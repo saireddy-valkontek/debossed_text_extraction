@@ -1,0 +1,75 @@
+{
+    "timestamp": "2025-04-12 17:03:43",
+    "detections": [
+        {
+            "label": "L",
+            "confidence": 0.8,
+            "bounding_box": [
+                95,
+                90,
+                122,
+                107
+            ],
+            "inference_time_ms": 1460.41
+        },
+        {
+            "label": "Z",
+            "confidence": 0.67,
+            "bounding_box": [
+                273,
+                110,
+                296,
+                123
+            ],
+            "inference_time_ms": 1460.41
+        },
+        {
+            "label": "DIGIT_6",
+            "confidence": 0.49,
+            "bounding_box": [
+                202,
+                84,
+                223,
+                96
+            ],
+            "inference_time_ms": 1460.41
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.44,
+            "bounding_box": [
+                232,
+                82,
+                253,
+                93
+            ],
+            "inference_time_ms": 1460.41
+        },
+        {
+            "label": "Z",
+            "confidence": 0.37,
+            "bounding_box": [
+                270,
+                108,
+                293,
+                122
+            ],
+            "inference_time_ms": 1460.41
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.33,
+            "bounding_box": [
+                202,
+                84,
+                223,
+                96
+            ],
+            "inference_time_ms": 1460.41
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 6
+    }
+}

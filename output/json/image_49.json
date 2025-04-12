@@ -1,0 +1,295 @@
+{
+    "timestamp": "2025-04-12 17:26:48",
+    "detections": [
+        {
+            "label": "4",
+            "confidence": 0.92,
+            "bounding_box": [
+                562,
+                346,
+                642,
+                409
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "F",
+            "confidence": 0.9,
+            "bounding_box": [
+                775,
+                441,
+                876,
+                513
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "X",
+            "confidence": 0.89,
+            "bounding_box": [
+                625,
+                539,
+                747,
+                617
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "5",
+            "confidence": 0.88,
+            "bounding_box": [
+                677,
+                350,
+                764,
+                406
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "W",
+            "confidence": 0.88,
+            "bounding_box": [
+                488,
+                540,
+                611,
+                617
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "V",
+            "confidence": 0.87,
+            "bounding_box": [
+                377,
+                550,
+                481,
+                624
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "8",
+            "confidence": 0.86,
+            "bounding_box": [
+                998,
+                341,
+                1086,
+                399
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "M",
+            "confidence": 0.86,
+            "bounding_box": [
+                1547,
+                447,
+                1651,
+                530
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "D",
+            "confidence": 0.85,
+            "bounding_box": [
+                499,
+                451,
+                614,
+                519
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "Z",
+            "confidence": 0.85,
+            "bounding_box": [
+                827,
+                527,
+                932,
+                599
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "U",
+            "confidence": 0.84,
+            "bounding_box": [
+                244,
+                556,
+                377,
+                634
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "7",
+            "confidence": 0.82,
+            "bounding_box": [
+                900,
+                344,
+                974,
+                406
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "L",
+            "confidence": 0.82,
+            "bounding_box": [
+                1421,
+                444,
+                1522,
+                513
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "O",
+            "confidence": 0.81,
+            "bounding_box": [
+                1798,
+                445,
+                1889,
+                511
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "I",
+            "confidence": 0.81,
+            "bounding_box": [
+                1117,
+                449,
+                1173,
+                520
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "C",
+            "confidence": 0.8,
+            "bounding_box": [
+                356,
+                451,
+                478,
+                523
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "P",
+            "confidence": 0.78,
+            "bounding_box": [
+                1917,
+                449,
+                2004,
+                517
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "E",
+            "confidence": 0.77,
+            "bounding_box": [
+                642,
+                445,
+                754,
+                513
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "J",
+            "confidence": 0.76,
+            "bounding_box": [
+                1194,
+                441,
+                1281,
+                517
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "K",
+            "confidence": 0.76,
+            "bounding_box": [
+                1295,
+                441,
+                1396,
+                520
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "G",
+            "confidence": 0.75,
+            "bounding_box": [
+                894,
+                449,
+                1002,
+                516
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "1",
+            "confidence": 0.74,
+            "bounding_box": [
+                233,
+                344,
+                310,
+                412
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "2",
+            "confidence": 0.54,
+            "bounding_box": [
+                328,
+                346,
+                429,
+                409
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "3",
+            "confidence": 0.48,
+            "bounding_box": [
+                440,
+                349,
+                537,
+                408
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "N",
+            "confidence": 0.4,
+            "bounding_box": [
+                1679,
+                438,
+                1777,
+                519
+            ],
+            "inference_time_ms": 3752.39
+        },
+        {
+            "label": "5",
+            "confidence": 0.31,
+            "bounding_box": [
+                789,
+                350,
+                876,
+                402
+            ],
+            "inference_time_ms": 3752.39
+        }
+    ],
+    "metadata": {
+        "version": "1.0",
+        "detection_count": 26
+    }
+}

@@ -1,0 +1,56 @@
+timestamp,image_name,json_file,detected_classes,total_detected_classes,total_objects,percentage_detected,conf_threshold
+2025-04-12 16:20:34,image_1.jpg,image_1.json,"DIGIT_4, DIGIT_5, J, Z",4,6,100.00%,0.25
+2025-04-12 16:21:10,image_2.jpg,image_2.json,O,1,1,100.00%,0.25
+2025-04-12 16:28:46,image_3.jpg,image_3.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 16:29:43,image_4.jpg,image_4.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 16:30:22,image_5.jpg,image_5.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 16:31:09,image_6.jpg,image_6.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 16:31:59,image_7.jpg,image_7.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 16:32:36,image_8.jpg,image_8.json,"C, D, DIGIT_5, E, M, W",6,6,100.00%,0.90
+2025-04-12 16:33:30,image_9.jpg,image_9.json,"O, Z",2,2,100.00%,0.25
+2025-04-12 16:33:48,image_10.jpg,image_10.json,"C, DIGIT_6, P",3,3,100.00%,0.25
+2025-04-12 16:34:03,image_11.jpg,image_11.json,"DIGIT_4, O",2,2,100.00%,0.25
+2025-04-12 16:34:16,image_12.jpg,image_12.json,"DIGIT_4, DIGIT_5, DIGIT_6, L, Z",5,8,100.00%,0.25
+2025-04-12 16:35:07,image_13.jpg,image_13.json,"DIGIT_4, DIGIT_5, J, Z",4,6,100.00%,0.25
+2025-04-12 16:56:53,image_14.jpg,image_14.json,"DIGIT_5, DIGIT_6, DIGIT_8",3,4,100.00%,0.25
+2025-04-12 16:58:01,image_15.jpg,image_15.json,DIGIT_5,1,1,100.00%,0.25
+2025-04-12 16:58:22,image_16.jpg,image_16.json,,0,0,0.00%,0.25
+2025-04-12 16:58:37,image_17.jpg,image_17.json,R,1,1,100.00%,0.25
+2025-04-12 16:58:52,image_18.jpg,image_18.json,M,1,1,100.00%,0.25
+2025-04-12 16:59:11,image_19.jpg,image_19.json,"DIGIT_5, DIGIT_6, DIGIT_8",3,4,100.00%,0.25
+2025-04-12 16:59:33,image_20.jpg,image_20.json,"DIGIT_4, DIGIT_5, DIGIT_7, K, L",5,6,100.00%,0.25
+2025-04-12 17:00:32,image_21.jpg,image_21.json,"DIGIT_7, N",2,2,100.00%,0.25
+2025-04-12 17:00:48,image_22.jpg,image_22.json,"DIGIT_5, K, L",3,4,100.00%,0.25
+2025-04-12 17:01:09,image_23.jpg,image_23.json,DIGIT_5,1,2,100.00%,0.25
+2025-04-12 17:01:23,image_24.jpg,image_24.json,M,1,1,100.00%,0.25
+2025-04-12 17:01:48,image_25.jpg,image_25.json,,0,0,0.00%,0.25
+2025-04-12 17:02:00,image_26.jpg,image_26.json,,0,0,0.00%,0.25
+2025-04-12 17:02:14,image_27.jpg,image_27.json,DIGIT_5,1,1,100.00%,0.25
+2025-04-12 17:02:38,image_28.jpg,image_28.json,"O, R, Z",3,4,100.00%,0.25
+2025-04-12 17:03:08,image_29.jpg,image_29.json,"C, DIGIT_6",2,2,100.00%,0.25
+2025-04-12 17:03:24,image_30.jpg,image_30.json,"DIGIT_4, F",2,2,100.00%,0.25
+2025-04-12 17:03:43,image_31.jpg,image_31.json,"DIGIT_5, DIGIT_6, L, Z",4,6,100.00%,0.25
+2025-04-12 17:04:07,image_32.jpg,image_32.json,"DIGIT_4, DIGIT_5, J, Z",4,7,100.00%,0.25
+2025-04-12 17:04:24,image_33.jpg,image_33.json,"DIGIT_4, DIGIT_5, L, Z",4,5,100.00%,0.25
+2025-04-12 17:04:47,image_34.jpg,image_34.json,O,1,1,100.00%,0.25
+2025-04-12 17:05:14,image_35.jpg,image_35.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 17:05:46,image_36.jpg,image_36.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, N, O, P, U, V, W, X, Z",29,29,100.00%,0.25
+2025-04-12 17:07:14,image_37.jpg,image_37.json,O,1,1,100.00%,0.25
+2025-04-12 17:07:25,image_38.jpg,image_38.json,"DIGIT_4, DIGIT_5, L, Z",4,5,100.00%,0.25
+2025-04-12 17:09:17,image_39.jpg,image_39.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 17:09:51,image_40.jpg,image_40.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, N, O, P, U, V, W, X, Z",29,29,100.00%,0.25
+2025-04-12 17:11:49,image_41.jpg,image_41.json,"DIGIT_4, DIGIT_5, L, Z",4,5,100.00%,0.25
+2025-04-12 17:12:20,image_42.jpg,image_42.json,"DIGIT_5, DIGIT_6, L, Z",4,6,100.00%,0.25
+2025-04-12 17:15:42,image_43.jpg,image_43.json,X,1,1,100.00%,0.25
+2025-04-12 17:16:29,image_44.jpg,image_44.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 17:20:39,image_45.jpg,image_45.json,O,1,1,100.00%,0.25
+2025-04-12 17:21:07,image_46.jpg,image_46.json,O,1,1,100.00%,0.10
+2025-04-12 17:24:24,image_47.jpg,image_47.json,DIGIT_1,1,1,100.00%,0.05
+2025-04-12 17:24:49,image_48.jpg,image_48.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25
+2025-04-12 17:26:48,image_49.jpg,image_49.json,"1, 2, 3, 4, 5, 7, 8, C, D, E, F, G, I, J, K, L, M, N, O, P, U, V, W, X, Z",25,26,100.00%,0.25
+2025-04-12 17:27:26,image_50.jpg,image_50.json,DIGIT_1,1,1,100.00%,0.05
+2025-04-12 17:27:59,image_51.jpg,image_51.json,8,1,1,100.00%,0.05
+2025-04-12 17:28:18,image_52.jpg,image_52.json,"DIGIT_4, DIGIT_5, DIGIT_7",3,3,100.00%,0.05
+2025-04-12 17:28:41,image_53.jpg,image_53.json,"DIGIT_5, DIGIT_7, DIGIT_8",3,4,100.00%,0.05
+2025-04-12 17:29:19,image_54.jpg,image_54.json,"C, F, W, Z",4,4,100.00%,0.05
+2025-04-12 17:29:43,image_55.jpg,image_55.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,32,100.00%,0.25
