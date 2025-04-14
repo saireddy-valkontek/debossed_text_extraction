@@ -1,0 +1,255 @@
+{
+    "timestamp": "2025-04-14 11:37:36",
+    "detections": [
+        {
+            "label": "G",
+            "confidence": 0.91,
+            "bounding_box": [
+                1115,
+                487,
+                1264,
+                709
+            ]
+        },
+        {
+            "label": "DIGIT_9",
+            "confidence": 0.9,
+            "bounding_box": [
+                1535,
+                167,
+                1656,
+                336
+            ]
+        },
+        {
+            "label": "DIGIT_8",
+            "confidence": 0.89,
+            "bounding_box": [
+                1390,
+                173,
+                1511,
+                339
+            ]
+        },
+        {
+            "label": "J",
+            "confidence": 0.89,
+            "bounding_box": [
+                1545,
+                452,
+                1699,
+                696
+            ]
+        },
+        {
+            "label": "O",
+            "confidence": 0.88,
+            "bounding_box": [
+                2626,
+                359,
+                2848,
+                625
+            ]
+        },
+        {
+            "label": "M",
+            "confidence": 0.87,
+            "bounding_box": [
+                2129,
+                430,
+                2322,
+                665
+            ]
+        },
+        {
+            "label": "I",
+            "confidence": 0.87,
+            "bounding_box": [
+                1433,
+                481,
+                1511,
+                716
+            ]
+        },
+        {
+            "label": "DIGIT_6",
+            "confidence": 0.87,
+            "bounding_box": [
+                1110,
+                205,
+                1231,
+                370
+            ]
+        },
+        {
+            "label": "DIGIT_3",
+            "confidence": 0.85,
+            "bounding_box": [
+                738,
+                258,
+                830,
+                425
+            ]
+        },
+        {
+            "label": "K",
+            "confidence": 0.84,
+            "bounding_box": [
+                1718,
+                456,
+                1873,
+                690
+            ]
+        },
+        {
+            "label": "C",
+            "confidence": 0.84,
+            "bounding_box": [
+                468,
+                536,
+                603,
+                738
+            ]
+        },
+        {
+            "label": "P",
+            "confidence": 0.84,
+            "bounding_box": [
+                2892,
+                345,
+                3128,
+                631
+            ]
+        },
+        {
+            "label": "DIGIT_5",
+            "confidence": 0.81,
+            "bounding_box": [
+                975,
+                232,
+                1095,
+                403
+            ]
+        },
+        {
+            "label": "R",
+            "confidence": 0.81,
+            "bounding_box": [
+                3312,
+                287,
+                3596,
+                556
+            ]
+        },
+        {
+            "label": "U",
+            "confidence": 0.8,
+            "bounding_box": [
+                178,
+                840,
+                357,
+                1061
+            ]
+        },
+        {
+            "label": "DIGIT_7",
+            "confidence": 0.79,
+            "bounding_box": [
+                1250,
+                185,
+                1371,
+                361
+            ]
+        },
+        {
+            "label": "L",
+            "confidence": 0.77,
+            "bounding_box": [
+                1926,
+                428,
+                2095,
+                668
+            ]
+        },
+        {
+            "label": "DIGIT_0",
+            "confidence": 0.74,
+            "bounding_box": [
+                395,
+                270,
+                511,
+                443
+            ]
+        },
+        {
+            "label": "DIGIT_1",
+            "confidence": 0.71,
+            "bounding_box": [
+                516,
+                274,
+                593,
+                437
+            ]
+        },
+        {
+            "label": "Z",
+            "confidence": 0.7,
+            "bounding_box": [
+                888,
+                738,
+                1120,
+                994
+            ]
+        },
+        {
+            "label": "DIGIT_4",
+            "confidence": 0.69,
+            "bounding_box": [
+                844,
+                243,
+                951,
+                411
+            ]
+        },
+        {
+            "label": "F",
+            "confidence": 0.57,
+            "bounding_box": [
+                965,
+                497,
+                1105,
+                707
+            ]
+        },
+        {
+            "label": "W",
+            "confidence": 0.55,
+            "bounding_box": [
+                492,
+                822,
+                642,
+                1023
+            ]
+        },
+        {
+            "label": "A",
+            "confidence": 0.53,
+            "bounding_box": [
+                178,
+                565,
+                304,
+                757
+            ]
+        },
+        {
+            "label": "DIGIT_2",
+            "confidence": 0.49,
+            "bounding_box": [
+                613,
+                271,
+                719,
+                427
+            ]
+        }
+    ]
+}

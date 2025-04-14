@@ -334,3 +334,9 @@
 2025-04-12 17:29:43,624 - WARNING - Could not check disk space
 2025-04-12 17:29:43,765 - INFO - Results saved successfully: output\images\image_55.jpg
 2025-04-12 17:29:43,765 - INFO - Total execution time: 2.73 seconds
+2025-04-14 11:25:53,166 - INFO - Loading YOLO model from models/yolov8/best_s.pt on cpu...
+2025-04-14 11:25:53,310 - INFO - Model loaded successfully in 0.14 seconds
+2025-04-14 11:25:54,970 - INFO - Detection completed in 1.63 seconds (inference: 1.62s)
+2025-04-14 11:25:54,970 - WARNING - Could not check disk space
+2025-04-14 11:25:55,190 - INFO - Results saved successfully: output\images\image_56.jpg
+2025-04-14 11:25:55,190 - INFO - Total execution time: 1.85 seconds

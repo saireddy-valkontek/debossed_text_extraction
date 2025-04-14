@@ -54,3 +54,4 @@ timestamp,image_name,json_file,detected_classes,total_detected_classes,total_obj
 2025-04-12 17:28:41,image_53.jpg,image_53.json,"DIGIT_5, DIGIT_7, DIGIT_8",3,4,100.00%,0.05
 2025-04-12 17:29:19,image_54.jpg,image_54.json,"C, F, W, Z",4,4,100.00%,0.05
 2025-04-12 17:29:43,image_55.jpg,image_55.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,32,100.00%,0.25
+2025-04-14 11:25:54,image_56.jpg,image_56.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,31,100.00%,0.25

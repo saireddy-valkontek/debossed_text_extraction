@@ -1,0 +1,22 @@
+timestamp,image_name,json_file,detected_classes,total_detected_classes,percentage_detected,conf_threshold
+2025-04-14 11:26:30,image_57.jpg,image_57.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",30,96.77%,0.25
+2025-04-14 11:27:51,image_58.jpg,image_58.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.25
+2025-04-14 11:28:39,image_59.jpg,image_59.json,,0,0.00%,0.90
+2025-04-14 11:28:54,image_60.jpg,image_60.json,"0, 1, 6, 7, O",5,16.13%,0.50
+2025-04-14 11:29:12,image_61.jpg,image_61.json,"0, 6",2,6.45%,0.60
+2025-04-14 11:29:27,image_62.jpg,image_62.json,"0, 1, 6",3,9.68%,0.55
+2025-04-14 11:29:49,image_63.jpg,image_63.json,"0, 1, 6",3,9.68%,0.53
+2025-04-14 11:30:15,image_64.jpg,image_64.json,"0, 1, 6, O",4,12.90%,0.51
+2025-04-14 11:30:30,image_65.jpg,image_65.json,"0, 1, 6, 7, O",5,16.13%,0.50
+2025-04-14 11:30:59,image_66.jpg,image_66.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.20
+2025-04-14 11:31:18,image_67.jpg,image_67.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.40
+2025-04-14 11:31:34,image_68.jpg,image_68.json,"0, 1, 6, 7, N, O",6,19.35%,0.45
+2025-04-14 11:32:47,image_69.jpg,image_69.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.40
+2025-04-14 11:33:13,image_70.jpg,image_70.json,"0, 1, 6, 7, N, O",6,19.35%,0.45
+2025-04-14 11:33:50,image_71.jpg,image_71.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.30
+2025-04-14 11:35:12,image_72.jpg,image_72.json,"0, 1, 6, 7, N, O, Z",7,22.58%,0.20
+2025-04-14 11:35:46,image_73.jpg,image_73.json,"I, J, K, L, M, N",6,19.35%,0.20
+2025-04-14 11:36:07,image_74.jpg,image_74.json,"I, J, K, L",4,12.90%,0.20
+2025-04-14 11:36:45,image_75.jpg,image_75.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,100.00%,0.45
+2025-04-14 11:37:01,image_76.jpg,image_76.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,100.00%,0.45
+2025-04-14 11:37:36,image_77.jpg,image_77.json,"A, C, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, F, G, I, J, K, L, M, O, P, R, U, W, Z",25,80.65%,0.45
