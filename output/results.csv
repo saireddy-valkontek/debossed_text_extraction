@@ -20,3 +20,4 @@ timestamp,image_name,json_file,detected_classes,total_detected_classes,percentag
 2025-04-14 11:36:45,image_75.jpg,image_75.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,100.00%,0.45
 2025-04-14 11:37:01,image_76.jpg,image_76.json,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,100.00%,0.45
 2025-04-14 11:37:36,image_77.jpg,image_77.json,"A, C, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, F, G, I, J, K, L, M, O, P, R, U, W, Z",25,80.65%,0.45
+2025-04-15 11:37:56,image_78.jpg,image_78.json,"A, B, C, D, DIGIT_0, DIGIT_1, DIGIT_2, DIGIT_3, DIGIT_4, DIGIT_5, DIGIT_6, DIGIT_7, DIGIT_8, DIGIT_9, E, F, G, I, J, K, L, M, N, O, P, R, U, V, W, X, Z",31,100.00%,0.45
